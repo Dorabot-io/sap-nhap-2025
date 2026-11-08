@@ -1,0 +1,1049 @@
+{
+ "phien_ban": "2026-11-08",
+ "giay_phep": {
+  "ten": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+  "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+ },
+ "tinh": [
+  {
+   "tinh": "Thành phố Hà Nội",
+   "slug": "ha-noi",
+   "tinh_cu": [
+    "Hà Nội"
+   ],
+   "so_xa_moi": 126,
+   "so_xa_cu": 526,
+   "so_xa_cu_dot_truoc": 61,
+   "nghi_quyet": {
+    "so": "1656/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214008"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/ha-noi/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ha-noi.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ha-noi.csv",
+   "so_dong": 877
+  },
+  {
+   "tinh": "Thành phố Hồ Chí Minh",
+   "slug": "ho-chi-minh",
+   "tinh_cu": [
+    "Hồ Chí Minh",
+    "Bình Dương",
+    "Bà Rịa - Vũng Tàu"
+   ],
+   "so_xa_moi": 168,
+   "so_xa_cu": 442,
+   "so_xa_cu_dot_truoc": 59,
+   "nghi_quyet": {
+    "so": "1685/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214007"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/ho-chi-minh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ho-chi-minh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ho-chi-minh.csv",
+   "so_dong": 557
+  },
+  {
+   "tinh": "Thành phố Hải Phòng",
+   "slug": "hai-phong",
+   "tinh_cu": [
+    "Hải Phòng",
+    "Hải Dương"
+   ],
+   "so_xa_moi": 114,
+   "so_xa_cu": 375,
+   "so_xa_cu_dot_truoc": 172,
+   "nghi_quyet": {
+    "so": "1669/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213980"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/hai-phong/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hai-phong.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hai-phong.csv",
+   "so_dong": 679
+  },
+  {
+   "tinh": "Thành phố Đà Nẵng",
+   "slug": "da-nang",
+   "tinh_cu": [
+    "Đà Nẵng",
+    "Quảng Nam"
+   ],
+   "so_xa_moi": 94,
+   "so_xa_cu": 281,
+   "so_xa_cu_dot_truoc": 28,
+   "nghi_quyet": {
+    "so": "1659/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213991"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/da-nang/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/da-nang.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/da-nang.csv",
+   "so_dong": 310
+  },
+  {
+   "tinh": "Tỉnh Hưng Yên",
+   "slug": "hung-yen",
+   "tinh_cu": [
+    "Hưng Yên",
+    "Thái Bình"
+   ],
+   "so_xa_moi": 104,
+   "so_xa_cu": 381,
+   "so_xa_cu_dot_truoc": 104,
+   "nghi_quyet": {
+    "so": "1666/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213992"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/hung-yen/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hung-yen.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hung-yen.csv",
+   "so_dong": 489
+  },
+  {
+   "tinh": "Tỉnh Bắc Ninh",
+   "slug": "bac-ninh",
+   "tinh_cu": [
+    "Bắc Ninh",
+    "Bắc Giang"
+   ],
+   "so_xa_moi": 99,
+   "so_xa_cu": 313,
+   "so_xa_cu_dot_truoc": 52,
+   "nghi_quyet": {
+    "so": "1658/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213988"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/bac-ninh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/bac-ninh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/bac-ninh.csv",
+   "so_dong": 365
+  },
+  {
+   "tinh": "Tỉnh Ninh Bình",
+   "slug": "ninh-binh",
+   "tinh_cu": [
+    "Ninh Bình",
+    "Nam Định",
+    "Hà Nam"
+   ],
+   "so_xa_moi": 129,
+   "so_xa_cu": 398,
+   "so_xa_cu_dot_truoc": 119,
+   "nghi_quyet": {
+    "so": "1674/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213997"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/ninh-binh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ninh-binh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ninh-binh.csv",
+   "so_dong": 524
+  },
+  {
+   "tinh": "Tỉnh Thanh Hóa",
+   "slug": "thanh-hoa",
+   "tinh_cu": [
+    "Thanh Hóa"
+   ],
+   "so_xa_moi": 166,
+   "so_xa_cu": 547,
+   "so_xa_cu_dot_truoc": 113,
+   "nghi_quyet": {
+    "so": "1686/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214002"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/thanh-hoa/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/thanh-hoa.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/thanh-hoa.csv",
+   "so_dong": 681
+  },
+  {
+   "tinh": "Tỉnh An Giang",
+   "slug": "an-giang",
+   "tinh_cu": [
+    "An Giang",
+    "Kiên Giang"
+   ],
+   "so_xa_moi": 102,
+   "so_xa_cu": 298,
+   "so_xa_cu_dot_truoc": 3,
+   "nghi_quyet": {
+    "so": "1654/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214010"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/an-giang/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/an-giang.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/an-giang.csv",
+   "so_dong": 305
+  },
+  {
+   "tinh": "Tỉnh Cà Mau",
+   "slug": "ca-mau",
+   "tinh_cu": [
+    "Cà Mau",
+    "Bạc Liêu"
+   ],
+   "so_xa_moi": 64,
+   "so_xa_cu": 164,
+   "so_xa_cu_dot_truoc": 1,
+   "nghi_quyet": {
+    "so": "1655/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213990"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/ca-mau/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ca-mau.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ca-mau.csv",
+   "so_dong": 187
+  },
+  {
+   "tinh": "Tỉnh Cao Bằng",
+   "slug": "cao-bang",
+   "tinh_cu": [
+    "Cao Bằng"
+   ],
+   "so_xa_moi": 56,
+   "so_xa_cu": 161,
+   "so_xa_cu_dot_truoc": 37,
+   "nghi_quyet": {
+    "so": "1657/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213986"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/cao-bang/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/cao-bang.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/cao-bang.csv",
+   "so_dong": 199
+  },
+  {
+   "tinh": "Tỉnh Lai Châu",
+   "slug": "lai-chau",
+   "tinh_cu": [
+    "Lai Châu"
+   ],
+   "so_xa_moi": 38,
+   "so_xa_cu": 106,
+   "so_xa_cu_dot_truoc": 2,
+   "nghi_quyet": {
+    "so": "1670/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213983"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/lai-chau/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lai-chau.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lai-chau.csv",
+   "so_dong": 108
+  },
+  {
+   "tinh": "Tỉnh Lạng Sơn",
+   "slug": "lang-son",
+   "tinh_cu": [
+    "Lạng Sơn"
+   ],
+   "so_xa_moi": 65,
+   "so_xa_cu": 194,
+   "so_xa_cu_dot_truoc": 41,
+   "nghi_quyet": {
+    "so": "1672/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213978"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/lang-son/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lang-son.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lang-son.csv",
+   "so_dong": 244
+  },
+  {
+   "tinh": "Thành phố Huế",
+   "slug": "hue",
+   "tinh_cu": [
+    "Huế"
+   ],
+   "so_xa_moi": 40,
+   "so_xa_cu": 133,
+   "so_xa_cu_dot_truoc": 32,
+   "nghi_quyet": {
+    "so": "1675/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213995"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/hue/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hue.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/hue.csv",
+   "so_dong": 165
+  },
+  {
+   "tinh": "Tỉnh Quảng Trị",
+   "slug": "quang-tri",
+   "tinh_cu": [
+    "Quảng Trị",
+    "Quảng Bình"
+   ],
+   "so_xa_moi": 78,
+   "so_xa_cu": 265,
+   "so_xa_cu_dot_truoc": 59,
+   "nghi_quyet": {
+    "so": "1680/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214001"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/quang-tri/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-tri.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-tri.csv",
+   "so_dong": 324
+  },
+  {
+   "tinh": "Tỉnh Quảng Ngãi",
+   "slug": "quang-ngai",
+   "tinh_cu": [
+    "Quảng Ngãi",
+    "Kon Tum"
+   ],
+   "so_xa_moi": 96,
+   "so_xa_cu": 273,
+   "so_xa_cu_dot_truoc": 21,
+   "nghi_quyet": {
+    "so": "1677/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213999"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/quang-ngai/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-ngai.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-ngai.csv",
+   "so_dong": 296
+  },
+  {
+   "tinh": "Tỉnh Khánh Hòa",
+   "slug": "khanh-hoa",
+   "tinh_cu": [
+    "Khánh Hòa",
+    "Ninh Thuận"
+   ],
+   "so_xa_moi": 65,
+   "so_xa_cu": 194,
+   "so_xa_cu_dot_truoc": 14,
+   "nghi_quyet": {
+    "so": "1667/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213979"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/khanh-hoa/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/khanh-hoa.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/khanh-hoa.csv",
+   "so_dong": 219
+  },
+  {
+   "tinh": "Tỉnh Gia Lai",
+   "slug": "gia-lai",
+   "tinh_cu": [
+    "Gia Lai",
+    "Bình Định"
+   ],
+   "so_xa_moi": 135,
+   "so_xa_cu": 373,
+   "so_xa_cu_dot_truoc": 8,
+   "nghi_quyet": {
+    "so": "1664/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213987"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/gia-lai/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/gia-lai.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/gia-lai.csv",
+   "so_dong": 384
+  },
+  {
+   "tinh": "Tỉnh Lâm Đồng",
+   "slug": "lam-dong",
+   "tinh_cu": [
+    "Lâm Đồng",
+    "Đắk Nông",
+    "Bình Thuận"
+   ],
+   "so_xa_moi": 124,
+   "so_xa_cu": 329,
+   "so_xa_cu_dot_truoc": 13,
+   "nghi_quyet": {
+    "so": "1671/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213977"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/lam-dong/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lam-dong.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lam-dong.csv",
+   "so_dong": 344
+  },
+  {
+   "tinh": "Tỉnh Đắk Lắk",
+   "slug": "dak-lak",
+   "tinh_cu": [
+    "Đắk Lắk",
+    "Phú Yên"
+   ],
+   "so_xa_moi": 102,
+   "so_xa_cu": 286,
+   "so_xa_cu_dot_truoc": 11,
+   "nghi_quyet": {
+    "so": "1660/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213993"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/dak-lak/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dak-lak.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dak-lak.csv",
+   "so_dong": 305
+  },
+  {
+   "tinh": "Tỉnh Đồng Nai",
+   "slug": "dong-nai",
+   "tinh_cu": [
+    "Đồng Nai",
+    "Bình Phước"
+   ],
+   "so_xa_moi": 95,
+   "so_xa_cu": 270,
+   "so_xa_cu_dot_truoc": 15,
+   "nghi_quyet": {
+    "so": "1662/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213994"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/dong-nai/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dong-nai.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dong-nai.csv",
+   "so_dong": 288
+  },
+  {
+   "tinh": "Tỉnh Tây Ninh",
+   "slug": "tay-ninh",
+   "tinh_cu": [
+    "Tây Ninh",
+    "Long An"
+   ],
+   "so_xa_moi": 96,
+   "so_xa_cu": 280,
+   "so_xa_cu_dot_truoc": 11,
+   "nghi_quyet": {
+    "so": "1682/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214003"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/tay-ninh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/tay-ninh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/tay-ninh.csv",
+   "so_dong": 315
+  },
+  {
+   "tinh": "Tỉnh Đồng Tháp",
+   "slug": "dong-thap",
+   "tinh_cu": [
+    "Đồng Tháp",
+    "Tiền Giang"
+   ],
+   "so_xa_moi": 102,
+   "so_xa_cu": 305,
+   "so_xa_cu_dot_truoc": 11,
+   "nghi_quyet": {
+    "so": "1663/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213985"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/dong-thap/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dong-thap.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dong-thap.csv",
+   "so_dong": 319
+  },
+  {
+   "tinh": "Tỉnh Điện Biên",
+   "slug": "dien-bien",
+   "tinh_cu": [
+    "Điện Biên"
+   ],
+   "so_xa_moi": 45,
+   "so_xa_cu": 129,
+   "so_xa_cu_dot_truoc": 1,
+   "nghi_quyet": {
+    "so": "1661/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213989"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/dien-bien/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dien-bien.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/dien-bien.csv",
+   "so_dong": 130
+  },
+  {
+   "tinh": "Tỉnh Sơn La",
+   "slug": "son-la",
+   "tinh_cu": [
+    "Sơn La"
+   ],
+   "so_xa_moi": 75,
+   "so_xa_cu": 200,
+   "so_xa_cu_dot_truoc": 8,
+   "nghi_quyet": {
+    "so": "1681/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214009"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/son-la/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/son-la.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/son-la.csv",
+   "so_dong": 209
+  },
+  {
+   "tinh": "Tỉnh Quảng Ninh",
+   "slug": "quang-ninh",
+   "tinh_cu": [
+    "Quảng Ninh"
+   ],
+   "so_xa_moi": 54,
+   "so_xa_cu": 171,
+   "so_xa_cu_dot_truoc": 18,
+   "nghi_quyet": {
+    "so": "1679/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214000"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/quang-ninh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-ninh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/quang-ninh.csv",
+   "so_dong": 206
+  },
+  {
+   "tinh": "Tỉnh Nghệ An",
+   "slug": "nghe-an",
+   "tinh_cu": [
+    "Nghệ An"
+   ],
+   "so_xa_moi": 130,
+   "so_xa_cu": 412,
+   "so_xa_cu_dot_truoc": 113,
+   "nghi_quyet": {
+    "so": "1678/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213984"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/nghe-an/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/nghe-an.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/nghe-an.csv",
+   "so_dong": 525
+  },
+  {
+   "tinh": "Tỉnh Hà Tĩnh",
+   "slug": "ha-tinh",
+   "tinh_cu": [
+    "Hà Tĩnh"
+   ],
+   "so_xa_moi": 69,
+   "so_xa_cu": 209,
+   "so_xa_cu_dot_truoc": 86,
+   "nghi_quyet": {
+    "so": "1665/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213981"
+   },
+   "nghi_quyet_tinh": null,
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/ha-tinh/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ha-tinh.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/ha-tinh.csv",
+   "so_dong": 298
+  },
+  {
+   "tinh": "Tỉnh Tuyên Quang",
+   "slug": "tuyen-quang",
+   "tinh_cu": [
+    "Tuyên Quang",
+    "Hà Giang"
+   ],
+   "so_xa_moi": 124,
+   "so_xa_cu": 330,
+   "so_xa_cu_dot_truoc": 9,
+   "nghi_quyet": {
+    "so": "1684/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214004"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/tuyen-quang/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/tuyen-quang.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/tuyen-quang.csv",
+   "so_dong": 345
+  },
+  {
+   "tinh": "Tỉnh Lào Cai",
+   "slug": "lao-cai",
+   "tinh_cu": [
+    "Lào Cai",
+    "Yên Bái"
+   ],
+   "so_xa_moi": 99,
+   "so_xa_cu": 319,
+   "so_xa_cu_dot_truoc": 37,
+   "nghi_quyet": {
+    "so": "1673/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213998"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/lao-cai/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lao-cai.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/lao-cai.csv",
+   "so_dong": 358
+  },
+  {
+   "tinh": "Tỉnh Thái Nguyên",
+   "slug": "thai-nguyen",
+   "tinh_cu": [
+    "Thái Nguyên",
+    "Bắc Kạn"
+   ],
+   "so_xa_moi": 92,
+   "so_xa_cu": 280,
+   "so_xa_cu_dot_truoc": 34,
+   "nghi_quyet": {
+    "so": "1683/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214005"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/thai-nguyen/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/thai-nguyen.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/thai-nguyen.csv",
+   "so_dong": 320
+  },
+  {
+   "tinh": "Tỉnh Phú Thọ",
+   "slug": "phu-tho",
+   "tinh_cu": [
+    "Phú Thọ",
+    "Vĩnh Phúc",
+    "Hoà Bình"
+   ],
+   "so_xa_moi": 148,
+   "so_xa_cu": 479,
+   "so_xa_cu_dot_truoc": 193,
+   "nghi_quyet": {
+    "so": "1676/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213996"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/phu-tho/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/phu-tho.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/phu-tho.csv",
+   "so_dong": 681
+  },
+  {
+   "tinh": "Thành phố Cần Thơ",
+   "slug": "can-tho",
+   "tinh_cu": [
+    "Cần Thơ",
+    "Sóc Trăng",
+    "Hậu Giang"
+   ],
+   "so_xa_moi": 103,
+   "so_xa_cu": 263,
+   "so_xa_cu_dot_truoc": 6,
+   "nghi_quyet": {
+    "so": "1668/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=213982"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/can-tho/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/can-tho.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/can-tho.csv",
+   "so_dong": 273
+  },
+  {
+   "tinh": "Tỉnh Vĩnh Long",
+   "slug": "vinh-long",
+   "tinh_cu": [
+    "Vĩnh Long",
+    "Bến Tre",
+    "Trà Vinh"
+   ],
+   "so_xa_moi": 124,
+   "so_xa_cu": 354,
+   "so_xa_cu_dot_truoc": 27,
+   "nghi_quyet": {
+    "so": "1687/NQ-UBTVQH15",
+    "ngay": "2025-06-16",
+    "hieu_luc": "2025-07-01",
+    "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214006"
+   },
+   "nghi_quyet_tinh": {
+    "so": "202/2025/QH15",
+    "ngay": "2025-06-12",
+    "url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/179501/202_2025_QH15_648951.doc"
+   },
+   "trang": "https://dorabot.io/dia-chi/sap-nhap/vinh-long/",
+   "phien_ban": "2026-11-08",
+   "giay_phep": {
+    "ten": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.vi",
+    "ghi_nguon": "Dorabot (dorabot.io/dia-chi/sap-nhap), chép từ nghị quyết của Ủy ban Thường vụ Quốc hội"
+   },
+   "json": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/vinh-long.json",
+   "csv": "https://dorabot.io/dia-chi/sap-nhap/du-lieu/v1/vinh-long.csv",
+   "so_dong": 387
+  }
+ ]
+}
